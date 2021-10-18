@@ -12,3 +12,24 @@ h1{
 img{
     width: 450px;
 }
+
+ul{
+    background-color: rgb(54, 47, 47);
+    display: inline-block;
+    display: flex;
+    padding: 20px;
+}
+
+li {
+    padding-left: 100px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 23px;
+}
+
+a:hover{
+    color: coral;
+}
