@@ -10,7 +10,7 @@ h1{
 }
 
 img{
-    width: 400px;
+    width: 435px;
 }
 
 ul{
@@ -31,11 +31,11 @@ a {
 }
 
 a:hover{
-    color: coral;
+    color: cadetblue;
 }
 h2 {
  text-align: center;
- background-color: coral;
+ background-color: teal;
  color: white;
  font-size: 50px;
  padding-top: 30px;
