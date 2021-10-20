@@ -10,7 +10,7 @@ h1{
 }
 
 img{
-    width: 450px;
+    width: 446px;
 }
 
 ul{
@@ -33,3 +33,19 @@ a {
 a:hover{
     color: coral;
 }
+h2 {
+ text-align: center;
+ background-color: coral;
+ color: white;
+ font-size: 80px;
+ padding-top: 30px;
+ margin: 30px;
+}
+ 
+ p {
+     font-size: 20px;
+     margin-left: 50px;
+     margin-right: 50px;
+     margin-top: 50px;
+ }
+ 
